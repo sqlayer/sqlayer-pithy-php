@@ -2,7 +2,7 @@
 
 /**
  * SQLayerCSV
- * Abstract class for conversion of table data between CSV and array of arrays
+ * Class for conversion of table data between CSV and array of arrays
  *
  * To see examples of extended classes, see SQLayerCSV, SQLayerJSON, and SQLayerXls
  *
